@@ -1,6 +1,0 @@
-num =input("String = ")
-print(type(num))
-num = int(num)
-print("New type",type(num))
-num = str(num)
-print("New type",type(num))
