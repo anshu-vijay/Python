@@ -45,7 +45,7 @@
       <recent name="E:\GitHub\Python\Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Regular Expressins function different ways">
+  <component name="RunManager" selected="Python.print words from string without any special symbol and space">
     <configuration name="Regular Expressins function different ways" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regular Expression Special Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print words from string without any special symbol and space" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular Expression/Regular Expression Special Sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular Expression/print words from string without any special symbol and space.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print words from string without any special symbol and space" />
         <item itemvalue="Python.Regular Expressins function different ways" />
         <item itemvalue="Python.Regular Expression Functions" />
         <item itemvalue="Python.Regular Expression Sets" />
         <item itemvalue="Python.Regular Expression Meta Characters" />
-        <item itemvalue="Python.Regular Expression Special Sequence" />
       </list>
     </recent_temporary>
   </component>
