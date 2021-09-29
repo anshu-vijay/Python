@@ -45,8 +45,8 @@
       <recent name="E:\GitHub\Python\Problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.number sysem type conversion">
-    <configuration name="convert string type to int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Regular Expression Meta Characters">
+    <configuration name="Regular Expression Meta Characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular Expression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicPrograms/convert string type to int.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular Expression/Regular Expression Meta Characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Regular Expression Meta Characters" />
         <item itemvalue="Python.number sysem type conversion" />
         <item itemvalue="Python.re-writing in text file" />
         <item itemvalue="Python.join" />
         <item itemvalue="Python.swap without temp" />
-        <item itemvalue="Python.convert string type to int" />
       </list>
     </recent_temporary>
   </component>
